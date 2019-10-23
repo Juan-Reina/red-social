@@ -1,0 +1,24 @@
+body{
+ margin: 0;
+ padding: 0;
+ background: /*darkgrey; */url(../img/453660_20623_1.jpg) no-repeat center top;
+ background-size: cover;
+ font-family:  sans-serif;
+ height: 100vh;
+
+}/*encabeza*/
+iframe{
+  width: 100%;
+  height: 120px;
+  border-style: none;
+}
+.nav{
+  width: 100%;
+  height: 50%;
+}
+/*caja de comentario
+iframe{
+  width: 100%;
+  height: 110px;
+  border-style: none;
+}*/
